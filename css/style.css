@@ -21,11 +21,13 @@
 
 
 table {
-    border-collapse: collapse; width: 100%;
+    border-collapse: collapse; 
+    width: 100%;
     }
     th, td {
         border: 1px solid #ddd;
         padding: 8px;
+        
     }
 
     tr:nth-child(even) {
@@ -38,7 +40,7 @@ table {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
-    background-color: #800000;
+    background-color: darkblue;
     color: white;
 }
 
