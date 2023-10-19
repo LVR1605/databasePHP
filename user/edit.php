@@ -20,7 +20,7 @@
         </div>
         <div>
             <label>Last Name</label><br />
-            <input type="text" name="last_name" placeholder="Last Name" value="<?php echo $row['first_name']; ?>" />
+            <input type="text" name="last_name" placeholder="Last Name" value="<?php echo $row['last_name']; ?>" />
         </div>
         <div>
             <label>Gender</label><br />
