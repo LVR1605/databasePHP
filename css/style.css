@@ -5,11 +5,21 @@
     a {
         text-decoration: none; 
         color: black;
+        padding: 5px;
+        margin: 2px;
+        background-color: #ddd;
+        
+        border-radius: 5px;
     }
     
+    .aMargin {
+        margin-bottom: 25px;
+    }
 
     a:hover {
-    color: #800000;
+        color: white;
+        background-color: darkblue;
+        transition: 0.5s;
     }
     /*
     Table
